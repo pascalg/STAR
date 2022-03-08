@@ -37,6 +37,8 @@ Download the latest [release from](https://github.com/alexdobin/STAR/releases) a
 
 ```bash
 # Get latest STAR source from releases
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpascalg%2FSTAR.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpascalg%2FSTAR?ref=badge_shield)
+
 wget https://github.com/alexdobin/STAR/archive/2.7.10a.tar.gz
 tar -xzf 2.7.10a.tar.gz
 cd STAR-2.7.10a
@@ -113,3 +115,7 @@ FUNDING
 The development of STAR is supported by the National Human Genome Research Institute of
 the National Institutes of Health under Award Number R01HG009318.
 The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpascalg%2FSTAR.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpascalg%2FSTAR?ref=badge_large)
